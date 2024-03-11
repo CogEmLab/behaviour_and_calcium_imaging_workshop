@@ -1,4 +1,4 @@
-# Behavior and Calcium Imaging Workshop
+# Behavior and Calcium Imaging Analysis Workshop
 
 This repository contains notebooks and resources for the workshop taking place in March 2024 at the Leibniz Institute for Neurobiology in Magdeburg.
 
